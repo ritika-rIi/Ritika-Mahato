@@ -53,15 +53,6 @@ I'd love to connect and learn together! Feel free to reach out:
 - 📧 Feel free to suggest resources or projects
 - 💡 Always excited to learn from others' experiences
 
-## 📝 Fun Facts
 
-- 🌟 Excited about exploring new technologies
-- 🎯 Believe in learning by doing
-- 📚 Love reading tech blogs and documentation
-- 🤗 Friendly and open to helping others learn
-
----
-
-*Keep coding, keep learning, and keep growing! 🚀*
 
 *Last updated: 2026-03-24*
